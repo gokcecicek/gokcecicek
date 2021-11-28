@@ -5,7 +5,7 @@
 
 - 💻 I am passionate about coding and learning new technologies.
 - 🏤 I have experienced in projects developed with C# and JavaScript.
-- 📌 I developed side projects with Python.
+- 📌 I developed next side projects with Python.
 - 🌱 I’m currently learning JavaScript, React and CSS.
 - 📑 [My career journey](https://www.linkedin.com/in/berilgokcecicek/) 
 - 🚀 [Open source projects I've done so far](https://github.com/gokcecicek?tab=repositories)
